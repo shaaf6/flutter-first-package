@@ -1,0 +1,26 @@
+name: random_gradient_generator
+description: "A lightweight and easy-to-use Flutter package for generating beautiful, random gradients with customizable colors, brightness, and saturation levels. Perfect for creating dynamic UIs with vibrant gradient backgrounds."
+version: 0.0.1
+homepage: https://github.com/yourusername/random_gradient_generator
+repository: https://github.com/yourusername/random_gradient_generator
+issue_tracker: https://github.com/yourusername/random_gradient_generator/issues
+
+environment:
+  sdk: ^3.10.8
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+
+  #         weight: 700
+  #
+  # For details regarding fonts in packages, see
+  # https://flutter.dev/to/font-from-package
